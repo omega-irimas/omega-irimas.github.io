@@ -1,0 +1,136 @@
+{
+	"current": [
+		{
+			"name": "AMI-CMA CyMove",
+			"link": "https://www.vehiculedufutur.com/2024-07-16-Un-nouveau-projet-pour-la-formation-appliqu%C3%A9e-%C3%A0-la-cybers%C3%A9curit%C3%A9-et-aux-v%C3%A9hicules-%C3%A9lectriques.html",
+			"date": "2025-2029",
+			"topic": "Management of charging stations for electric vehicles (1 PhD thesis)",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": ""
+		},
+		{
+			"name": "Gen-Q",
+			"link": "https://www.eucor-uni.org/fr/doctorat/gen-q",
+			"date": "2025-2029",
+			"topic": "Quantum-inspired metaheuristics (2 PhD theses)",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "H2020"
+		},
+		{
+			"name": "GT I2MDP",
+			"link": "https://gt-i2mdp.github.io/website/",
+			"date": "2025-2027",
+			"topic": "Creation of the Official GdR IASIS Task Force on Multimodal Imaging and AI for Pulmonary Pathology Diagnosis",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner"
+			
+		},
+		{
+			"name": "GreenFOAM",
+			"link": "https://www.pepr-diadem.fr/projet/greenfoam-en/",
+			"date": "2024-2028",
+			"topic": "Optimization methods integrating machine learning for foam optimization (1 PhD thesis)",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "PEPR"
+		},
+		{
+			"name": "Matlight 4.0",
+			"link": "https://anr.fr/ProjetIA-21-EXES-0012",
+			"date": "2022-2032",
+			"topic": "Materials and Light 4.0",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "ANR (Excellence project)"
+		},
+		{
+			"name": "ASIMUTE",
+			"link": "https://www.asimute.uha.fr/",
+			"date": "2024-2027",
+			"topic": "AI to enhance the second life of used batteries for stationary storage (1 PhD thesis)",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "Interreg"
+		}
+	],
+	"past": [
+		{
+			"name": "Confiance 4.0",
+			"link": "https://anr.fr/Projet-ANR-20-GES1-0011",
+			"date": "2020-2022",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Coordinator",
+			"fundings": "ANR"
+		},
+		{
+			"name": "ArtIC",
+			"link": "https://anr.fr/Project-ANR-20-THIA-0006",
+			"date": "2020-2024",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "ANR"
+		},
+		{
+			"name": "Enygma",
+			"link": "",
+			"date": "2022-2023",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Coordinator",
+			"fundings": "Région Grand-Est"
+		},
+		{
+			"name": "TIMES",
+			"link": "https://anr-times.unistra.fr/",
+			"date": "2017-2023",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "ANR"
+		},
+		{
+			"name": "OPMoPS",
+			"link": "https://anr.fr//Projet-ANR-16-SEBM-0004",
+			"date": "2017-2020",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Coordinator",
+			"fundings": "ANR"
+		},
+		{
+			"name": "Plasidia",
+			"link": "",
+			"date": "2017-2018",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Partner",
+			"fundings": "AMI"
+		},
+		{
+			"name": "Frequency Assignment",
+			"link": "",
+			"date": "2012-2015",
+			"topic": "",
+			"partners": [],
+			"partners_links": [],
+			"role": "Coordinator",
+			"fundings": "TDF"
+		}
+	]
+}

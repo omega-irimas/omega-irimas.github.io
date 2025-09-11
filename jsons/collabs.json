@@ -1,0 +1,133 @@
+{
+	"academic": [
+		{
+			"name": "Daniel Fodorean",
+			"link": "",
+			"date": "",
+			"institution": "Electrical Engineering Faculty of Technical University of Cluj-Napoca",
+			"country": "Romania",
+			"institution_links": ""
+		},
+		{
+			"name": "Nurul Mu'azzah Abdul Latiff",
+			"link": "",
+			"date": "",
+			"institution": "Universiti Teknologi Malaysia",
+			"country": "Malaysia",
+			"institution_links": ""
+		},
+		{
+			"name": "Nik Noordini Nik Abd Malik",
+			"link": "",
+			"date": "",
+			"institution": "Universiti Teknologi Malaysia",
+			"country": "Malaysia",
+			"institution_links": ""
+		},
+		{
+			"name": "Hassan Harb",
+			"link": "",
+			"date": "",
+			"institution": "American University of the Middle East",
+			"country": "Kuwait",
+			"institution_links": ""
+		},
+		{
+			"name": "Edward Keedwell",
+			"link": "",
+			"date": "",
+			"institution": "Exeter University",
+			"country": "UK",
+			"institution_links": ""
+		},
+		{
+			"name": "Amirhossein Gandomi",
+			"link": "",
+			"date": "",
+			"institution": "University of Technology Sydney",
+			"country": "Australia",
+			"institution_links": ""
+		},
+		{
+			"name": "Ammar Oulamara",
+			"link": "",
+			"date": "",
+			"institution": "Université de Lorraine",
+			"country": "France",
+			"institution_links": ""
+		},
+		{
+			"name": "Seyed Mahdi Shavarani",
+			"link": "",
+			"date": "",
+			"institution": "University of Kent",
+			"country": "UK",
+			"institution_links": ""
+		},
+		{
+			"name": "Mohamed-El-Amine Brahmia",
+			"link": "",
+			"date": "",
+			"institution": "CESI Strasbourg",
+			"country": "France",
+			"institution_links": ""
+		},
+		{
+			"name": "Redouane Tlemsani",
+			"link": "",
+			"date": "",
+			"institution": "University of Science and Technology of Oran – Mohamed Boudiaf",
+			"country": "Algeria",
+			"institution_links": ""
+		},
+		{
+			"name": "Boudjemaa Boudaa",
+			"link": "",
+			"date": "",
+			"institution": "Faculty Ibn Khaldoun University, Tiaret",
+			"country": "Algeria",
+			"institution_links": ""
+		},
+		{
+			"name": "Fadi Dornaika",
+			"link": "",
+			"date": "",
+			"institution": "University of the Basque Country",
+			"country": "Spain",
+			"institution_links": ""
+		},
+		{
+			"name": "Halim Benhabiles",
+			"link": "",
+			"date": "",
+			"institution": "Université de Lille",
+			"country": "France",
+			"institution_links": ""
+		},
+		{
+			"name": "Adnane Cabani",
+			"link": "",
+			"date": "",
+			"institution": "Université de Rouen Normandie",
+			"country": "France",
+			"institution_links": ""
+		},
+		{
+			"name": "Ruiwen He",
+			"link": "",
+			"date": "",
+			"institution": "Léonard de Vinci Pôle Universitaire",
+			"country": "France",
+			"institution_links": ""
+		},
+		{
+			"name": "Feryal Windal",
+			"link": "",
+			"date": "",
+			"institution": "Université de Lille",
+			"country": "France",
+			"institution_links": ""
+		}
+	],
+	"companies": []
+}

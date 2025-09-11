@@ -1,0 +1,480 @@
+{
+    "permanent": [
+        {
+            "firstname": "Lhassane",
+            "lastname": "Idoumghar",
+            "link": "https://www.mage.fst.uha.fr/idoumghar/",
+            "position": "Head / Full Prof.",
+            "pic_links": [
+                "imgs/idoumghar.jpg"
+            ]
+        },
+        {
+            "firstname": "Mahmoud",
+            "lastname": "Melkemi",
+            "link": "",
+            "position": "Full Prof.",
+            "pic_links": [
+                "imgs/melkemi.jpg"
+            ]
+        },
+        {
+            "firstname": "Mounir",
+            "lastname": "Elbaz",
+            "link": "",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/elbaz.jpg"
+            ]
+        },
+        {
+            "firstname": "Yvan",
+            "lastname": "Maillot",
+            "link": "",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/maillot.jpg"
+            ]
+        },
+        {
+            "firstname": "Bruno",
+            "lastname": "Adam",
+            "link": "",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/adam.jpg"
+            ]
+        },
+        {
+            "firstname": "Mathieu",
+            "lastname": "Brevilliers",
+            "link": "https://www.mage.fst.uha.fr/brevilliers/index_fr.html",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/brevilliers.jpg"
+            ]
+        },
+        {
+            "firstname": "Laurent",
+            "lastname": "Moalic",
+            "link": "https://scholar.google.com/citations?hl=fr&user=NNJ_D8wAAAAJ",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/moalic.jpg"
+            ]
+        },
+        {
+            "firstname": "Stéphane",
+            "lastname": "Rivière",
+            "link": "",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/riviere.jpg"
+            ]
+        },
+        {
+            "firstname": "Julien",
+            "lastname": "Lepagnot",
+            "link": "",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/lepagnot.jpg"
+            ]
+        },
+        {
+            "firstname": "Karim",
+            "lastname": "Hammoudi",
+            "link": "http://karimhammoudi.free.fr/",
+            "position": "Assoc. Prof. – HDR",
+            "pic_links": [
+                "imgs/hammoudi.jpg"
+            ]
+        },
+        {
+            "firstname": "Frédéric",
+            "lastname": "Cordier",
+            "link": "https://scholar.google.com/citations?user=r4gezHUAAAAJ&hl=fr",
+            "position": "Assoc. Prof. – HDR",
+            "pic_links": [
+                "imgs/cordier.jpg"
+            ]
+        },
+        {
+            "firstname": "Dominique",
+            "lastname": "Schmitt",
+            "link": "",
+            "position": "Assoc. Prof. – HDR",
+            "pic_links": [
+                "imgs/schmitt.jpg"
+            ]
+        },
+        {
+            "firstname": "Mokhtar",
+            "lastname": "Essaid",
+            "link": "https://scholar.google.com/citations?user=nywqwwkAAAAJ&hl=fr&oi=ao",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/essaid.jpg"
+            ]
+        },
+        {
+            "firstname": "Mahmoud",
+            "lastname": "Golabi",
+            "link": "https://scholar.google.com/citations?hl=fr&user=zzv2TIYAAAAJ",
+            "position": "Researcher – HDR",
+            "pic_links": [
+                "imgs/golabi.jpg"
+            ]
+        },
+        {
+            "firstname": "Abdennour",
+            "lastname": "Azerine",
+            "link": "https://scholar.google.com/citations?hl=fr&user=N-t5pmMAAAAJ",
+            "position": "Assoc. Prof.",
+            "pic_links": [
+                "imgs/person.png"
+            ]
+        }
+    ],
+    "student": [
+        {
+            "firstname": "Fatima",
+            "lastname": "Iken",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2025-2028"
+        },
+        {
+            "firstname": "Iyed",
+            "lastname": "Dhahri",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2024-2027"
+        },
+        {
+            "firstname": "Aimen",
+            "lastname": "Khiar",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2024-2027"
+        },
+        {
+            "firstname": "Adnan",
+            "lastname": "Mustafic",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2024-2027"
+        },
+        {
+            "firstname": "Amira",
+            "lastname": "Bendjebla",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2022-2026"
+        },
+        {
+            "firstname": "Hadi",
+            "lastname": "Mawassi",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "2023-2026"
+        }
+    ],
+    "postdoc": [],
+    "engineer": [],
+    "alumni": [
+        {
+            "firstname": "Muhammad",
+            "lastname": "Sulaman",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 28/02/2025",
+            "thesis": "Métaheuristiques hybrides et méthodes d'apprentissage"
+        },
+        {
+            "firstname": "Muhammad Junaid",
+            "lastname": "Ali",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 24/02/2025",
+            "thesis": "Automated machine learning with metaheuristics"
+        },
+        {
+            "firstname": "Bouthaina",
+            "lastname": "Slika",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 22/07/2025",
+            "thesis": "Advancing Pulmonary Disease Assessment in Medical Imaging:  Deep Regression and Data Augmentation techniques"
+        },
+        {
+            "firstname": "Kenza",
+            "lastname": "Riahi",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 02/12/2024",
+            "thesis": "Towards a Robust and Lightweight Consensus Protocol for Permissioned Blockchains"
+        },
+        {
+            "firstname": "Khaoula",
+            "lastname": "Zaimen",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 19/06/2024",
+            "thesis": "Optimisation du déploiement de capteurs dans les bâtiments intelligents"
+        },
+        {
+            "firstname": "Joseph",
+            "lastname": "Merhej",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 30/04/2024",
+            "thesis": "Intelligent solutions based cutting-edge technologies for securing information exchange in health systems"
+        },
+        {
+            "firstname": "Nobar",
+            "lastname": "Kassabian",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 12/12/2022",
+            "thesis": "Optimisation du stockage des conteneurs dans un terminal portuaire"
+        },
+        {
+            "firstname": "Ghina",
+            "lastname": "Saad",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 10/11/2022",
+            "thesis": "Data analytic frameworks for patients monitoring and assessment in connected healthcare applications"
+        },
+        {
+            "firstname": "Imene",
+            "lastname": "Zaidi",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 28/11/2022",
+            "thesis": "Electric vehicle charging scheduling problems: complexity and solution approaches"
+        },
+        {
+            "firstname": "Mounir",
+            "lastname": "Bendali-Braham",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 27/01/2022",
+            "thesis": "Étude de la classification des vidéos de foule par apprentissage profond"
+        },
+        {
+            "firstname": "Soheila",
+            "lastname": "Ghambari",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 10/06/2021",
+            "thesis": "Optimisation multi-objectif pour la planification de chemin de drones dans un milieu incertain/dynamique"
+        },
+        {
+            "firstname": "Hassan",
+            "lastname": "Ismail Fawaz",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 21/09/2020",
+            "thesis": "Apprentissage profond pour la classification des séries temporelles"
+        },
+        {
+            "firstname": "Julien",
+            "lastname": "Kritter",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 10/09/2020",
+            "thesis": "On the optimal placement of cameras for the surveillance of urban events: a real-world, human-assisted combinatorial approach for decision support systems"
+        },
+        {
+            "firstname": "Hojjat",
+            "lastname": "Rakhshani",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 18/06/2020",
+            "thesis": "The interplay of machine learning and metaheuristics"
+        },
+        {
+            "firstname": "Mokhtar",
+            "lastname": "Essaid",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 04/11/2019",
+            "thesis": "Design of hybrid metaheuristics for real-world continuous optimization problems"
+        },
+        {
+            "firstname": "Omar",
+            "lastname": "Abdelkafi",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 07/11/2016",
+            "thesis": "Métaheuristiques hybrides distribuées et massivement parallèles"
+        },
+        {
+            "firstname": "Akram",
+            "lastname": "Bedoui",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 12/11/2015",
+            "thesis": "Méthodes algorithmiques pour l'optimisation mono-objectif et multi-objectif : application aux réseaux de radiodiffusion"
+        },
+        {
+            "firstname": "Nicolas",
+            "lastname": "Chérin",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 01/09/2015",
+            "thesis": "Modélisation géométrique à partir de croquis"
+        },
+        {
+            "firstname": "Robin",
+            "lastname": "Roche",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 07/12/2012",
+            "thesis": "Algorithmes et architectures multi-agents pour la gestion de l'énergie dans les réseaux électriques intelligents"
+        },
+        {
+            "firstname": "Thomas",
+            "lastname": "Iwaszko",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 22/11/2012",
+            "thesis": "Généralisation du diagramme de Voronoï et placement de formes géométriques complexes dans un nuage de points"
+        },
+        {
+            "firstname": "Maha",
+            "lastname": "Idrissi Aouad",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 04/07/2011",
+            "thesis": "Conception d'algorithmes hybrides pour l'optimisation de l'énergie mémoire dans les systèmes embarqués et de fonctions multimodales"
+        },
+        {
+            "firstname": "Mathieu",
+            "lastname": "Brévilliers",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "PhD student",
+            "dates": "Defense: 2008",
+            "thesis": "Construction de la triangulation de Delaunay de segments par un algorithme de flip"
+        },
+        {
+            "firstname": "Sarra",
+            "lastname": "Rouabhi",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "Visiting Researcher",
+            "dates": "10/2023 - 12/2023",
+            "thesis": "Collaboration with Université des Sciences et de la Technologie d’Oran Mohamed Boudiaf, USTO-MB"
+        },
+        {
+            "firstname": "Racha Ikram",
+            "lastname": "Hakiki",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "Visiting Researcher",
+            "dates": "10/2023 - 12/2023",
+            "thesis": "Collaboration with Université des Sciences et de la Technologie d’Oran Mohamed Boudiaf, USTO-MB"
+        },
+        {
+            "firstname": "Dorra",
+            "lastname": "Kallel",
+            "link": "",
+            "pic_links": [
+                "imgs/person.png"
+            ],
+            "position": "Visiting Researcher",
+            "dates": "06/2022 - 08/2022",
+            "thesis": "Collaboration with University of Sfax, Faculty of Sciences and Economics of Sfax, Tunisia"
+        }
+    ]
+}

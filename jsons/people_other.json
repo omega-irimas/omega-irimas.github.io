@@ -1,0 +1,176 @@
+{
+  "NonPermanentMembers": [
+    {
+      "name": "Fatima Iken",
+      "topic": "Intégration des méthodes d’apprentissage dans les métaheuristiques",
+      "period": "2025 – 2028"
+    },
+    {
+      "name": "Iyed Dhahri",
+      "topic": "Plan rapide d'inspection pour l'organisation intelligente de territoires sinistrés",
+      "period": "2024 – 2027"
+    },
+    {
+      "name": "Aimen Khiar",
+      "topic": "Métaheuristiques hybrides et techniques d’apprentissage fédéré pour optimiser la recharge de batteries des véhicules électriques",
+      "collaboration": "OMeGA / IRIMAS et CESI / Strasbourg",
+      "period": "2024 – 2027"
+    },
+    {
+      "name": "Adnan Mustafic",
+      "topic": "Généralisabilité des modèles d'intelligence artificielle pour l'aide au diagnostic multi-maladies liées à la poitrine à partir de bioimagerie",
+      "period": "2024 – 2027"
+    },
+    {
+      "name": "Amira Bendjebla",
+      "topic": "Modèles et algorithmes d'optimisation pour les systèmes de transport avec des véhicules et bus électriques",
+      "collaboration": "Optimist/Loria – UL, OMeGA et MIAM / IRIMAS-UHA",
+      "period": "2022 – 2026"
+    },
+    {
+      "name": "Hadi Mawassi",
+      "topic": "L'IA pour améliorer la seconde vie des batteries usagées pour le stockage stationnaire afin d’augmenter l’autoconsommation",
+      "collaboration": "IMTIS et OMeGA / IRIMAS",
+      "period": "2023 – 2026"
+    }
+  ],
+  "Alumnis": [
+    {
+      "name": "Muhammad Sulaman",
+      "topic": "Métaheuristiques hybrides et méthodes d'apprentissage",
+      "defense": "28/02/2025"
+    },
+    {
+      "name": "Muhammad Junaid Ali",
+      "topic": "Automated machine learning with metaheuristics",
+      "defense": "24/02/2025"
+    },
+    {
+      "name": "Bouthaina Slika",
+      "topic": "Advancing Pulmonary Disease Assessment in Medical Imaging: Deep Regression and Data Augmentation techniques",
+      "collaboration": "Université du Pays Basque, San Sebastian, Espagne",
+      "defense": "22/07/2025"
+    },
+    {
+      "name": "Sarra Rouabhi",
+      "collaboration": "Université des Sciences et de la Technologie d’Oran Mohamed Boudiaf, USTO-MB, EL M’naouer DZ",
+      "visitPeriod": "10/2023 - 12/2023"
+    },
+    {
+      "name": "Racha Ikram Hakiki",
+      "collaboration": "Université des Sciences et de la Technologie d’Oran Mohamed Boudiaf, USTO-MB, EL M’naouer DZ",
+      "visitPeriod": "10/2023 - 12/2023"
+    },
+    {
+      "name": "Dorra Kallel",
+      "collaboration": "University of Sfax, Faculty of Sciences and Economics of Sfax, Tunisia",
+      "visitPeriod": "06/2022 - 08/2022"
+    },
+    {
+      "name": "Kenza Riahi",
+      "topic": "Towards a Robust and Lightweight Consensus Protocol for Permissioned Blockchains",
+      "collaboration": "RT / IRIMAS et CESI / Strasbourg",
+      "defense": "02/12/2024"
+    },
+    {
+      "name": "Khaoula Zaimen",
+      "topic": "Optimisation du déploiement de capteurs dans les bâtiments intelligents",
+      "collaboration": "RT / IRIMAS et CESI / Strasbourg",
+      "defense": "19/06/2024"
+    },
+    {
+      "name": "Joseph Merhej",
+      "topic": "Intelligent solutions based cutting-edge technologies for securing information exchange in health systems",
+      "collaboration": "RT / IRIMAS - UHA",
+      "defense": "30/04/2024"
+    },
+    {
+      "name": "Nobar Kassabian",
+      "topic": "Optimisation du stockage des conteneurs dans un terminal portuaire",
+      "collaboration": "UTBM",
+      "defense": "12/12/2022"
+    },
+    {
+      "name": "Ghina Saad",
+      "topic": "Data analytic frameworks for patients monitoring and assessment in connected healthcare applications",
+      "collaboration": "RT / IRIMAS",
+      "defense": "10/11/2022"
+    },
+    {
+      "name": "Imene Zaidi",
+      "topic": "Electric vehicle charging scheduling problems: complexity and solution approaches",
+      "collaboration": "MIAM / IRIMAS-UHA and Optimist / LORIA-UL",
+      "defense": "28/11/2022"
+    },
+    {
+      "name": "Mounir Bendali-Braham",
+      "topic": "Étude de la classification des vidéos de foule par apprentissage profond",
+      "collaboration": "MSD / IRIMAS – UHA",
+      "defense": "27/01/2022"
+    },
+    {
+      "name": "Soheila Ghambari",
+      "topic": "Optimisation multi-objectif pour la planification de chemin de drones dans un milieu incertain/dynamique",
+      "defense": "10/06/2021"
+    },
+    {
+      "name": "Hassan Ismail Fawaz",
+      "topic": "Apprentissage profond pour la classification des séries temporelles",
+      "collaboration": "MSD / IRIMAS - UHA",
+      "defense": "21/09/2020"
+    },
+    {
+      "name": "Julien Kritter",
+      "topic": "On the optimal placement of cameras for the surveillance of urban events: a real-world, human-assisted combinatorial approach for decision support systems",
+      "defense": "10/09/2020"
+    },
+    {
+      "name": "Hojjat Rakhshani",
+      "topic": "The interplay of machine learning and metaheuristics",
+      "defense": "18/06/2020"
+    },
+    {
+      "name": "Mokhtar Essaid",
+      "topic": "Design of hybrid metaheuristics for real-world continuous optimization problems",
+      "defense": "04/11/2019"
+    },
+    {
+      "name": "Omar Abdelkafi",
+      "topic": "Métaheuristiques hybrides distribuées et massivement parallèles",
+      "defense": "07/11/2016"
+    },
+    {
+      "name": "Akram Bedoui",
+      "topic": "Méthodes algorithmiques pour l'optimisation mono-objectif et multi-objectif : application aux réseaux de radiodiffusion",
+      "collaboration": "LORIA / UL",
+      "defense": "12/11/2015"
+    },
+    {
+      "name": "Nicolas Chérin",
+      "topic": "Modélisation géométrique à partir de croquis",
+      "defense": "01/09/2015"
+    },
+    {
+      "name": "Robin Roche",
+      "topic": "Algorithmes et architectures multi-agents pour la gestion de l'énergie dans les réseaux électriques intelligents",
+      "collaboration": "UTBM",
+      "defense": "07/12/2012"
+    },
+    {
+      "name": "Thomas Iwaszko",
+      "topic": "Généralisation du diagramme de Voronoï et placement de formes géométriques complexes dans un nuage de points",
+      "defense": "22/11/2012"
+    },
+    {
+      "name": "Maha Idrissi Aouad",
+      "topic": "Conception d'algorithmes hybrides pour l'optimisation de l'énergie mémoire dans les systèmes embarqués et de fonctions multimodales",
+      "collaboration": "INRIA / Nancy",
+      "defense": "04/07/2011"
+    },
+    {
+      "name": "Mathieu Brévilliers",
+      "topic": "Construction de la triangulation de Delaunay de segments par un algorithme de flip",
+      "defense": "2008"
+    }
+  ]
+}
